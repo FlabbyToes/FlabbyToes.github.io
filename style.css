@@ -14,6 +14,17 @@
     font-weight: normal;
     font-style: normal;
 }
+#project_page{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+    align-items: center;
+}
+#project_page a{
+    color: white;
+    font-size: larger;
+    margin-top: 30px;
+}
 #project-list{
     display: flex;
     padding: 0 0;
