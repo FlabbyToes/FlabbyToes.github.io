@@ -20,6 +20,9 @@
     margin-bottom: 10%;
     align-items: center;
 }
+a{
+    color: white;
+}
 #project_page a{
     color: white;
     font-size: larger;
@@ -196,6 +199,9 @@ body{
     margin: 0 0;
     margin-right:10%;
 
+}
+#cat{
+    width: 100%;
 }
 #selfie{
     width: var(--selfie-size);
